@@ -13,10 +13,9 @@
 - 🗺️ Brusque-SC 
  
  
--📝 [Currículo](https://linktr.ee/rafapsantos)
+- 📝 [Currículo](https://linktr.ee/rafapsantos)
 
 
-https://linktr.ee/rafapsantos
 
 ##
 
