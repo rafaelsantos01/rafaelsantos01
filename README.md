@@ -1,7 +1,7 @@
 <h1 align="center">
   Olá! Eu sou o Rafael 🖐️
 </h1>
-##
+
 - 📄 **Tecnólogo** em ** Desenvolvimento de Sistemas** 
 
 
@@ -12,6 +12,8 @@
 
 - 🗺️ Brusque-SC 
  
+ 
+-📝 [Currículo](https://linktr.ee/rafapsantos)
 
 
 https://linktr.ee/rafapsantos
