@@ -3,12 +3,13 @@
 </h1>
 ##
 - 📄 **Tecnólogo** em ** Desenvolvimento de Sistemas** 
--  
+##
 - 💻 Desenvolvedor Back-End 
-- 
+##
 - 🗺️ Brusque-SC  
-- 
-- 📝 [Currículo](https://linktr.ee/rafapsantos)
+##
+https://linktr.ee/rafapsantos
+##
 
 <h2>📃 Stats</h2>
 <div align="center">
