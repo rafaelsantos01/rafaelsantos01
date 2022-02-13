@@ -1,8 +1,11 @@
 ###     _Ola, Meu nome é Rafael P Santos._
 https://linktr.ee/rafapsantos
 ##
-Desenvolvedor Back-End
-Brusque-SC
+
+-Desenvolvedor Back-End
+-Brusque-SC
+-Curriculo(https://linktr.ee/rafapsantos)
+
 ##
 
 <div align="center">
