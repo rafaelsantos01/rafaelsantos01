@@ -4,15 +4,15 @@
 ##
 - 📄 **Tecnólogo** em ** Desenvolvimento de Sistemas** 
 
-##
+
 
 - 💻 Desenvolvedor Back-End 
 
-##
+
 
 - 🗺️ Brusque-SC 
  
-##
+
 
 https://linktr.ee/rafapsantos
 
