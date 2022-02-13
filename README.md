@@ -48,9 +48,9 @@
 ##
  <h2> 🧔 Quando não estou desenvolvendo... </h2>
 
-- ✨ **Hobbies**: Futebol, Ler
-- 🎮 **jogos**: Valorant, R6 
-- 🎥 **Filmes**: Riddick
-- 📺 **Séries**: SUITS, BROOKLYN 99
-- 🎵 **Musica**: POP,ROCK,ELETRONICA,RAP
+- ✨ **Hobbies**: Futebol e Ler.
+- 🎮 **jogos**: Valorant e R6. 
+- 🎥 **Filmes**: Riddick.
+- 📺 **Séries**: Suits, Brooklyn 99.
+- 🎵 **Musica**: Rock, Eletronica, Rap.
   
