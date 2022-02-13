@@ -1,13 +1,13 @@
-###     _Ola, Meu nome é Rafael P Santos._
-https://linktr.ee/rafapsantos
+<h1 align="center">
+  Olá! Eu sou o Rafael 🖐️
+</h1>
 ##
+- 📄 **Tecnólogo** em ** Desenvolvimento de Sistemas**
+- 💻 Desenvolvedor Back-End
+- 🗺️ Brusque-SC
+- 📝 [Currículo](https://linktr.ee/rafapsantos)
 
--Desenvolvedor Back-End
--Brusque-SC
--Curriculo(https://linktr.ee/rafapsantos)
-
-##
-
+<h2>📃 Stats</h2>
 <div align="center">
   <a href="https://github.com/rafaelsantos01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsantos01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
