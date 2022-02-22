@@ -2,7 +2,7 @@
   Olá! Eu sou o Rafael 🖐️
 </h1>
 
-- 📄 **Tecnólogo** em  Desenvolvimento de Sistemas 
+- 📄 **Tecnólogo em  Desenvolvimento de Sistemas**
 
 
 
