@@ -5,10 +5,8 @@
 - 📄 **Tecnólogo em  Desenvolvimento de Sistemas**
 
 - 📄 **8 anos de experiencia em Hardware**
-- 
+
 - 💻 **Desenvolvedor Back-End** 
-
-
 
 - 🗺️ **Brusque-SC** 
  
