@@ -6,11 +6,11 @@
 
 
 
-- 💻 Desenvolvedor Back-End 
+- 💻 **Desenvolvedor Back-End** 
 
 
 
-- 🗺️ Brusque-SC 
+- 🗺️ **Brusque-SC** 
  
  
 - 📝 [Currículo](https://linktr.ee/rafapsantos)
