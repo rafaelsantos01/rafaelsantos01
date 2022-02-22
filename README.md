@@ -15,6 +15,7 @@
  
 - 📝 [Currículo](https://linktr.ee/rafapsantos)
 
+- 📝[Redes Sociais](https://linktr.ee/rafapsantos)
 
 
 ##
