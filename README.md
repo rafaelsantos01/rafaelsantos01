@@ -11,10 +11,11 @@
 - 🗺️ **Brusque-SC** 
  
  
-- 📝 [Currículo](https://linktr.ee/rafapsantos)
+- 📝 [Currículo](https://drive.google.com/file/d/1P5OySDyA-xZroOAFOdEsDLjdP57_RhTg/view)
 
 - 📝[Redes Sociais](https://linktr.ee/rafapsantos)
 
+-📝[Meu site de apresentação](www.cm.br) ainda em desenvolvimento
 
 ##
 
