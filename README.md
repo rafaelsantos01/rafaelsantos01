@@ -35,7 +35,7 @@
   <img align="center" alt="css" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-sql" height="30" width="40" img src="https://icongr.am/devicon/mysql-original.svg?size=148&color=fffafa" />
-  <img align="center" alt="Angular" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+  <img align="center" alt="Angular" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>
 
 </div>
   
