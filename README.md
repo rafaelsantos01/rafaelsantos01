@@ -15,7 +15,7 @@
 
 - 📝[Redes Sociais](https://linktr.ee/rafapsantos)
 
-- 📝[Meu site de apresentação](www.cm.br) ainda em desenvolvimento
+- 📝[Meu site de apresentação](https://rafaelsantos01.github.io/portifolioweb/) ainda em desenvolvimento
 
 ##
 
