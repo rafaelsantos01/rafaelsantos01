@@ -49,12 +49,4 @@
 
 </div>
 
-##
- <h2> 🧔 Quando não estou desenvolvendo... </h2>
-
-- ✨ **Hobbies**: Futebol e Ler.
-- 🎮 **jogos**: Valorant e R6. 
-- 🎥 **Filmes**: Riddick.
-- 📺 **Séries**: Suits, Brooklyn 99.
-- 🎵 **Musica**: Rock, Eletronica, Rap.
   
