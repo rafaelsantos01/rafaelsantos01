@@ -36,11 +36,13 @@
 >> [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 >
 >> Back-end
+>> 
 >> [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 >> [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 >> [![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 >> [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/)
 >> [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/)
+>> [![Java](https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://java.com)
 >
 >> Testes
 >>
@@ -57,18 +59,7 @@
 </div>
   
   ##
- <h2>⚡ Skills</h2> 
-<div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-java" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor"/>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-sql" height="30" width="40" img src="https://icongr.am/devicon/mysql-original.svg?size=148&color=fffafa" />
-  
 
-</div>
-  
-  ##
  
 <div> 
   <a href="https://www.instagram.com/fk.rafasantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
