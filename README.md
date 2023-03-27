@@ -46,9 +46,6 @@
 >>
 >> [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io)
 
->
->> Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- "Click Me")
->
 >º
 
 <h2>📃 Stats</h2>
