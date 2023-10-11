@@ -1,19 +1,21 @@
 <h1 align="center">
-  Prazer, meu nome é Rafael 🖐️
+  Dev. Junior Full Stack 
 </h1>
 
-- 📄 **8 anos de experiencia em Hardware**
+- 📄 **8 years of experience in Hardware**
+  
+- 📄 **1 year of experience as a Programmer**
 
-- 💻 **Desenvolvedor Full Stack**
+- 💻 **Developer Full Stack**
 
 - 🗺️ **Brusque-SC** 
  
  
-- 📝 [Currículo](https://drive.google.com/file/d/1P5OySDyA-xZroOAFOdEsDLjdP57_RhTg/view)
+- 📝[CV](https://drive.google.com/file/d/1P5OySDyA-xZroOAFOdEsDLjdP57_RhTg/view)
 
-- 📝[Redes Sociais](https://linktr.ee/rafapsantos)
+- 📝[Social Media](https://linktr.ee/rafapsantos)
 
-- 📝[Meu site de apresentação](https://portifolio-react-rose-tau.vercel.app/)
+- 📝[Web portfolio](https://portifolio-react-rose-tau.vercel.app/)
 
 ##
 
