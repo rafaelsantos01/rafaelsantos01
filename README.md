@@ -21,7 +21,7 @@
 <div style="display: inline_block"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,postgres,kafka,java,git,ts,js,react,nextjs,css" />
+    <img src="https://skillicons.dev/icons?i=postgres,docker,kafka,spring,java,git,ts,js,react,nextjs,css,html" />
   </a>
 </p>
 </div>
