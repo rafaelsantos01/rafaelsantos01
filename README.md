@@ -19,6 +19,11 @@
 
 ### 🚀💻 Technologies & Tools
 <div style="display: inline_block"><br>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
   [![My Skills](https://skillicons.dev/icons?i=spring,postgres,kafka,java,git,ts,js,react,nextjs,css&perline=3)](https://skillicons.dev)
 </div>
   
