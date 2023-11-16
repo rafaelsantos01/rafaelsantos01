@@ -8,15 +8,6 @@
 
 ##
 
-###  Technologies & Tools
-<div style="display: inline_block"><br>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,docker,kafka,spring,java,git,ts,js,react,nextjs,css,html" />
-  </a>
-</p>
-</div>
-
 ### 💻 Minhas skills:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,docker,spring,java,git," />
