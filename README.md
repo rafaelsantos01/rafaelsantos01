@@ -10,13 +10,6 @@
   <img src="https://skillicons.dev/icons?i=postgres,docker,spring,java,kafka,react,nextjs,ts,aws" />
 </div>
 
-
-### 📃 Stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelsantos01&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=41E1CF&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantos01&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 ### 📱 Contact
 <div align="center">
   <a href = "mailto:rafinhapsantos50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5px" target="_blank"></a>
