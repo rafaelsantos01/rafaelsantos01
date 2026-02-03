@@ -7,13 +7,7 @@
 
 ### 💻 Minhas skills:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,spring,java,git," />
-</div>
-
-
-### 🚀 Estudando agora:
-<div align="center">
-   <img src="https://skillicons.dev/icons?i=kafka,react,nextjs,css,html,ts,js" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,spring,java,kafka,react,nextjs,ts,aws" />
 </div>
 
 
